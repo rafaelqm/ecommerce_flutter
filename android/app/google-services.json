@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "943699216378",
+    "firebase_url": "https://ecommerce-learning-app.firebaseio.com",
+    "project_id": "ecommerce-learning-app",
+    "storage_bucket": "ecommerce-learning-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943699216378:android:a07915e9a6e12b71100643",
+        "android_client_info": {
+          "package_name": "br.com.studiobravo.ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943699216378-knti45gcibpfu2k8nm3a6r5n5ouip6fi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdwTEMXLpEhRr2T4jR_giBVJTP7Sgj624"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943699216378-knti45gcibpfu2k8nm3a6r5n5ouip6fi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
