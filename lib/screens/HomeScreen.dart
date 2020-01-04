@@ -10,12 +10,16 @@ class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return PageView(
+      controller: _pageController,
       physics: NeverScrollableScrollPhysics(),
       children: <Widget>[
         Scaffold(
           body: HomeTab(),
-          drawer: CustomDrawer(),
+          drawer: CustomDrawer(_pageController),
         ),
+        Container(color: Colors.red,),
+        Container(color: Colors.black,),
+        Container(color: Colors.blue,),
       ],
     );
   }
